@@ -3,3 +3,7 @@ git status
 git add .
 git commit -m "New submit"
 git push
+
+If you see this errogit error: "failed to push some refs to remoter", type in git bash.
+git pull --rebase origin main
+git push origin main
