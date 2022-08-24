@@ -1,4 +1,4 @@
-git checkout "Group_3"
+git checkout "Group_10"
 git status
 git add .
 git commit -m "New submit"
