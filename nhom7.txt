@@ -1,0 +1,11 @@
+1. CNN project (Deadline: )
+ - Hand Detection For Grab-and-Go Groceries: Chí Trung
+ - Image to Latex: Thành Trung
+ - Scene classification with CNN: Tuấn Trung
+ - YOLO Net on iOS: Trinh
+ - Deep CNN for Lung Cancer Detection: Anh Toàn
+ - Image-based Product Recommendation System with CNN: Lê Trung
+ - Scene classification with CNN: Huỳnh Toàn
+2. Xử lý hình ảnh Video
+3. Attention & Transformer
+4. GAN
