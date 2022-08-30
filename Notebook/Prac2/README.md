@@ -1,9 +1,4 @@
-<div>
-  <h2 align="center"><a href="https://cs231n.github.io">CS231n: Convolutional Neural Networks for Visual Recognition</a></h2>
-  <h2 align="center"><a href="https://cs231n.github.io/assignments2020/assignment1/">Assignment 1 (2020)</a></h3>
-</div>
-
-# Goals
+# Goals (Only Google Colab is available!)
 
 In this assignment you will practice putting together a simple image classification pipeline based on the k-Nearest Neighbor or the SVM/Softmax classifier. The goals of this assignment are as follows:
 
