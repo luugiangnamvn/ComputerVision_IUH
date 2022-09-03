@@ -5,7 +5,8 @@
  - YOLO Net on iOS: Trinh
  - Deep CNN for Lung Cancer Detection: Anh Toàn
  - Image-based Product Recommendation System with CNN: Lê Trung
- - Scene classification with CNN: Huỳnh Toàn
+ - Scene classification with CNN: Huỳnh Toàn [ https://github.com/jiangtaoxie/fast-MPN-COV/tree/master/src ] 
 2. Xử lý hình ảnh Video
 3. Attention & Transformer
 4. GAN
+
