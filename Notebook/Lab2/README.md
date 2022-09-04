@@ -1,7 +1,3 @@
-<div>
-  <h2 align="center"><a href="https://cs231n.github.io">CS231n: Convolutional Neural Networks for Visual Recognition</a></h2>
-  <h2 align="center"><a href="https://cs231n.github.io/assignments2020/assignment1/">Assignment 1 (2020)</a></h3>
-</div>
 
 # Goals
 
