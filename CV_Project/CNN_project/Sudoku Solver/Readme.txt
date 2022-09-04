@@ -1,0 +1,1 @@
+Read a game of Sudoku and find solution as quick as possible.
