@@ -1,7 +1,6 @@
 1. CNN project (Deadline: )
  - Hand Detection For Grab-and-Go Groceries: Chí Trung
  - Image to Latex: Thành Trung
- - Scene classification with CNN: Tuấn Trung
  - YOLO Net on iOS: Trinh
  - Deep CNN for Lung Cancer Detection: Anh Toàn
  - Image-based Product Recommendation System with CNN: Lê Trung
@@ -10,3 +9,8 @@
 3. Attention & Transformer
 4. GAN
 
+------
+Đề tài được chọn 
+- Image to Latex ( Thành Trung , Chí Trung , Lê Trung ) 
+- Scene classification with CNN ( Toàn, Tuấn Trung , Anh Toàn , Trinh ) 
+- YOLO ( deadline thứ 4 ) > v3 ( đầy đủ thành viên [4 người phụ trách chính] ) 
