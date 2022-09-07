@@ -1,4 +1,4 @@
 Đề tài CNN nhóm 3 chọn:
 1. Sudoku Solver --> Ly, Nghĩa, Duy Khang
-2. Playing Go without Game Tree Search Using Convolutional Neural Networks --> Hoàng, Hiếu
+2. Image-based Product Recommendation System with Convolutional Neural Networks --> Hoàng, Hiếu
 3. Depth Estimation from Single Image Using CNN-Residual Network --> Huy, Hòa
