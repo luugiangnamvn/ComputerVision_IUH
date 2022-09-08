@@ -1,0 +1,4 @@
+3 đề tài nhóm 5 phần CNN
+1.Image-based Product Recommendation System with Convolutional Neural Networks
+2.Hand Detection For Grab-and-Go Groceries
+3.Image to Latex
