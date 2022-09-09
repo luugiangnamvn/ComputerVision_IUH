@@ -3,3 +3,4 @@
 2.Hand Detection For Grab-and-Go Groceries
 3.Image to Latex
 4.Brain Segmentation using Deep Learing
+* (Tạm thời nhóm em để 4 project, sau cùng tụi em sẽ chọn và thuyết trình 3 đề tài tốt nhất)
