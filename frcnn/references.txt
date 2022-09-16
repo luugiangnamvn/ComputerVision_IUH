@@ -1,0 +1,6 @@
+1. https://pytorch.org/vision/stable/models/faster_rcnn.html
+2. https://dlapplications.github.io/2018-07-15-Transfer-Learning-Basic/
+3. https://www.analyticsvidhya.com/blog/2018/11/implementation-faster-r-cnn-python-object-detection/?fbclid=IwAR1KlC1hfSiVJc_RlRwHFFDlSdqcIZBD2rHgzzhn6ik62-nutqH4KrHFxlc
+4. https://nttuan8.com/bai-11-object-detection-voi-faster-r-cnn/?fbclid=IwAR2cg9hqjth3Dkv0DKei5Morxgj1vJ_6kKeSjRej6HY8Rf4tIdRF6i2NykQ
+5. https://www.geeksforgeeks.org/selective-search-for-object-detection-r-cnn/
+6. Faster R-CNN with Region Proposal Refinement (paper on folder)
