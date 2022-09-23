@@ -1,1 +1,2 @@
 code pytorch: https://github.com/Abdielfer/Faster-RCNN-Pythorch
+https://www.youtube.com/watch?v=4yOcsWg-7g8
